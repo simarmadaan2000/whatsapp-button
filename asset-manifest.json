@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/whatsapp-button/static/css/main.e6c13ad2.css",
-    "main.js": "/whatsapp-button/static/js/main.91c41cd8.js",
+    "main.js": "/whatsapp-button/static/js/main.788465a0.js",
     "static/js/453.05c1bd4e.chunk.js": "/whatsapp-button/static/js/453.05c1bd4e.chunk.js",
     "index.html": "/whatsapp-button/index.html",
     "main.e6c13ad2.css.map": "/whatsapp-button/static/css/main.e6c13ad2.css.map",
-    "main.91c41cd8.js.map": "/whatsapp-button/static/js/main.91c41cd8.js.map",
+    "main.788465a0.js.map": "/whatsapp-button/static/js/main.788465a0.js.map",
     "453.05c1bd4e.chunk.js.map": "/whatsapp-button/static/js/453.05c1bd4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.91c41cd8.js"
+    "static/js/main.788465a0.js"
   ]
 }
