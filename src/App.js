@@ -407,7 +407,9 @@
 // }
 //#### MUlti page designer ###
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+// import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
+
 import { Phone, MapPin, Mail, MessageCircle } from "lucide-react";
 
 function Home({ phone }) {
