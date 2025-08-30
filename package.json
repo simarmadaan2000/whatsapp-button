@@ -14,7 +14,9 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://simarmadaan2000.github.io/whatsapp-button",
+  
+  "homepage": "https://krishnamassage.online",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
